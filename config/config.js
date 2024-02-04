@@ -3,12 +3,12 @@ module.exports = {
   // ceci est un object
   settings: {
     prefix: '/', // Le prefix pour les commande example, !help
-    botName: 'BOTO_OFF', // Sa doit etre le meme nom que celui du jeu
+    botName: 'offsetbot', // Sa doit etre le meme nom que celui du jeu
     owerName: 'daniel_offset', // Mettez le nom du owner (créateur)
     ownerId: 'daniel_offset', // Mettez le ID du créateur 
-    botId: '6594a811407946ddf2fa23d2', // Mettez le ID du bot vous pouvez l'obtenir au 1er lancement 
+    botId: '', // Mettez le ID du bot vous pouvez l'obtenir au 1er lancement 
     developers: ['daniel_offset'], // rajouter en autant que vous voulez
-    moderators: ['change-moi', 'change-moi'], // rajouter en autant que vous voulez
+    moderators: ['daniel_offset', 'change-moi'], // rajouter en autant que vous voulez
     roomName: 'BESTIE', // Mettez le nom de la room
     // Mettez les coordonnées du bot au lancement 
     coordinates: {
