@@ -3,7 +3,7 @@ module.exports = {
   // ceci est un object
   settings: {
     prefix: '/', // Le prefix pour les commande example, !help
-    botName: 'offsetbot', // Sa doit etre le meme nom que celui du jeu
+    botName: 'BOTO_OFF', // Sa doit etre le meme nom que celui du jeu
     owerName: 'daniel_offset', // Mettez le nom du owner (créateur)
     ownerId: 'daniel_offset', // Mettez le ID du créateur 
     botId: '', // Mettez le ID du bot vous pouvez l'obtenir au 1er lancement 
@@ -12,9 +12,9 @@ module.exports = {
     roomName: 'BESTIE', // Mettez le nom de la room
     // Mettez les coordonnées du bot au lancement 
     coordinates: {
-      x: 11.50,
-      y:  0.50,
-      z:  6.50,
+      x:  8.50,
+      y:  1.00,
+      z:  1.50,
       facing: 'FrontLeft'
     },
     reactionName: 'wink' // La reaction du bot quand quelqu'un tips, 'wink', 'wave, 'heart', 'clap', 'thumbsup'
