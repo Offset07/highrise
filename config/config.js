@@ -21,7 +21,7 @@ module.exports = {
   },
   // cela contient des data d'authentification 
   authentication: {
-    room: "65a5cff55e6c48f0dfac205c", // le ID de la room trouvable sur highrise.game/room/
+    room: "64e99ff81188da64f8889bfa", // le ID de la room trouvable sur highrise.game/room/
     token: "01b50864d754b0b8522967751d2b34d252b2e8bcc065ef7327b70dfb9d14aaa6" // Le token du bot trouvable sur  https://highrise.game
   }
 }
